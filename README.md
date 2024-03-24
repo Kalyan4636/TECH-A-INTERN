@@ -1,4 +1,7 @@
-# TECH-A-INTERN 
+# TECH-A-INTERN  
+
+
+![tech a intern](https://github.com/Kalyan4636/TECH-A-INTERN/assets/79601235/852670fd-7924-479c-9f85-d5eb91ac0023)
 
 # RECIPE  PAGE ----- -[  WEB DEVELOPMENT ]
 **EXPLANATION**
